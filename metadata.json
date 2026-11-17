@@ -1,0 +1,6 @@
+{
+  "name": "NaturalCalc",
+  "description": "High-precision offline-first scientific calculator with 2D Natural Textbook Display, AST expression editor, symbolic exact math, and multi-mode hardware solvers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
